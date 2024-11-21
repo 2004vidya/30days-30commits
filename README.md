@@ -1,1 +1,1 @@
-uploaded a realtime tracker device using socket.io which shows your live location
+initialised the basic setup of a new live chat application-Medical_pager
