@@ -1,1 +1,1 @@
-initialised the basic setup of a new live chat application-Medical_pager
+fixed some bugs in employee management project
