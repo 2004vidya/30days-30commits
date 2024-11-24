@@ -1,1 +1,1 @@
-fixed some bugs in employee management project
+revised backend concepts of cookies and sessions through some youtube videos
