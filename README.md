@@ -1,1 +1,1 @@
-revised backend concepts of cookies and sessions through some youtube videos
+started working on a realtime chat application using MERN
