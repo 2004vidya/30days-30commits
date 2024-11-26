@@ -1,1 +1,1 @@
-started working on a realtime chat application using MERN
+initialised server setup on realtime chat app 
