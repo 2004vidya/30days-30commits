@@ -1,1 +1,1 @@
-initialised server setup on realtime chat app 
+fiexed errors in login and signup apge in chat app 
