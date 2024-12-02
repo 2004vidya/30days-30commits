@@ -1,1 +1,1 @@
-finished setting up the login and signup routes in realtime chat app
+started working on chat and profile page in realtime chat app
