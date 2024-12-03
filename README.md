@@ -1,1 +1,1 @@
-started working on chat and profile page in realtime chat app
+setup jwt authentication and some middlewares in realtime chat app
