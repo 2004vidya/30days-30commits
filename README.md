@@ -1,1 +1,1 @@
-chat layout page setup 
+fixed errors in chat app 
